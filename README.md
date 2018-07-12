@@ -1,4 +1,4 @@
-(July 12^th^, 2018)
+July 12, 2018
 
 # Onboarding document for Co-ops in the MBTA Procurement & Logistics Department
 
@@ -16,7 +16,7 @@ Hi, I'm Robert Picard, a current Co-op at the MBTA Procurement & Logistics Depar
 
   - First learn and practice Chapter 12 -- Tidy Data -- This is by far the most important chapter to learn.
 
-  - After that, read Ch.1-Ch.6, but save Ch.3 -- Data Visualization --for after Ch.6. Code alongside.
+  - After that, read Ch.1-Ch.6, but save Ch.3 -- Data Visualization -- for after Ch.6. Code alongside.
 
   - Read and code Ch.18. Read Ch.19. Then read Ch.8-11. Code and read Ch.13 and 15.
 
@@ -34,7 +34,7 @@ Hi, I'm Robert Picard, a current Co-op at the MBTA Procurement & Logistics Depar
 
   - Rmarkdown is somewhat being deprecated as we transition toward more web based interfaces, namely Shiny and Plotly. However it is a valuable tool to be aware of.
 
-  - Do *not* read Section IV on Models (Chpt 22-25) b/c we will model with `Python/Pandas`-- more particularly `SciKitLearn` (`Pandas` is the second Data Science Language we use). http://scikit-learn.org/stable/
+  - Do *not* read Section IV on Models (Chpt 22-25) b/c we will model with `Python/Pandas` -- more particularly `SciKitLearn` (`Pandas` is the second Data Science Language we use). http://scikit-learn.org/stable/
 
 ## FMIS and Department-Specific Details:
 
