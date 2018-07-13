@@ -50,6 +50,16 @@ Next, you'll learn **FMIS** -- (Financials & Materials Information System) -- & 
 
   5. Always be cautious in constructing new queries because identifying information is in the system
 
+## Miscellaneous
+
+### Administrative
+
+  * Submit time sheets using HR/CMS on intranet
+    * Login ID is *different* from FMIS Login
+    * After assigned one, call `6045` for a one-time password to login
+  * IT help desk is  `5761`, call if you need admin rights on PC
+    * `git` and `R` can be installed by yourself
+
 #### Todo:
     \<ROBERT please add Screenshots when you become more familiar with
     FMIS\>
