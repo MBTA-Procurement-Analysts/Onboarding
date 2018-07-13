@@ -50,6 +50,29 @@ Next, you'll learn **FMIS** -- (Financials & Materials Information System) -- & 
 
   5. Always be cautious in constructing new queries because identifying information is in the system
 
+## Miscellaneous
+
+### Administrative
+
+  * Submit time sheets using HR/CMS on intranet
+    * Login ID is *different* from FMIS Login
+    * After assigned one, call `6045` for a one-time password to login
+  * IT help desk is  `5761`, call if you need admin rights on PC
+    * `git` and `R` can be installed by yourself
+
+### Badge/Access
+
+  During your orientation with the HR department, you will be given a *Security Access Request Form* for your badge. For a streamlined process, fill the following info as shown so you can have proper access:
+
+  * **Applicant Information**:
+    * Title: Student Intern
+    * Division/Department: Procurement and Logistics
+    * Home Office Location: 10 Park Plaza #2810
+  * **Access Update Information**
+    * Location/Building: 10 Park Plaza
+    * Door/Card Reader Name(s): #2810 Mailroom and main door 
+    * Operational Justification: (Time range of your attdance, if you need access after 5pm)
+
 #### Todo:
     \<ROBERT please add Screenshots when you become more familiar with
     FMIS\>
