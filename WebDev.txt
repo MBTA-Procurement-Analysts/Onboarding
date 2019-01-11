@@ -1,0 +1,26 @@
+MBTA P&L Internal Tools –Web Stack Onboarding Document
+We are a MEAN (MongoDB, Express.js, AngularJS, Nodejs) shop.  
+While we use node.js/express.js as are web service and load/routing we do almost nothing but install and run it.  The only thing to remember is at time you may need to shut-down and restart the webserver for recent changes to take effect. 
+MongoDB-Mongoose (a collection of objects with key-value pairs there in, intentional Not SQL) 
+We use Mongoose to validate data. We on occasion will go in and direct edit or update or remove but it’s not your tradition SQL database and we spend next to no time think about “proper” way to structure things. At this stage in our development cycle we just want a way to persist data in some semblance of order so we use MONGODB—it’s flexible and easy. (Ref: https://docs.mongodb.com/manual/tutorial/)
+On the server--
+> mongo
+>use collection-name 
+(db is th alias for the current collection you are on)
+> db.user.remove({username: "USername"}) 
+Remove method on collection-name.user field
+ 
+*AngularJS—the heart of what you need to learn to be a front end-developer with us
+1) Go through Prof. Jose Annunciato videos below
+a. https://www.youtube.com/playlist?list=PL_GGiAMracOWHBKiyJ0hUUG_yMfBaWSxg
+b. Specifically start with 3.16, 3.17*, 3.18; 4.2, 4.4, 4.6, 4.10
+2) Read and Complete Steps 0-7 & 9 on the official AngularJS tutorial (CRITICAL STEP)
+a. *Link is here: https://docs.angularjs.org/tutorial/
+b. SKIP ALL of the TESTING section with each step—our project is not big enough to justify test-driven development—our testing is straight-up end-user testing and our own debugging, we do no formal testing
+3) Skim “AngularJS: Up and Running-Enhanced Productivity with Structured Web Apps” skip all TESTing related parts as well (Ask me what parts to focus on).
+
+Github—Our Version Control System:
+https://github.com/MBTA-Procurement-Analysts (DO NOT push anything that can’t be public here, luckily we are a quasi-public agency and almost all of our work is public information)
+Know the git basic - https://guides.github.com/activities/hello-world/- all we do is clone, edit and push back up. Final pull request of me the github owner is the final step to the code being LIVE in production. Basically here is the codebase and were we stay synced, it’s not truly, truly an issue for such a small team but using git has been a time-saver in that we don’t ever think about how to coordinate our coding path. No more “What version are we working on, is this the file you want me to use?” Also, it’s comforting for me to know if shit hits the fan I can figure our how to revert back to some prior working version—although I know that feature exist I don’t yet know how to actually do it formally. 
+JavaScript:
+Knowing a little bit of JavaScipt is very helpful, b/c AngularJS is a framework written in JavaScript, hence trailing “JS” in name. Part2 of the book “Maintainable JavaScript” book, skim through ”JavaScript the good parts” I have books on my desk if you need them, you may have academic access.  
