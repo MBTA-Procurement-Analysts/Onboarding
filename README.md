@@ -24,7 +24,7 @@ Hi, I'm Robert Picard, a current Co-op at the MBTA Procurement & Logistics Depar
 
       - <https://haozhu233.github.io/kableExtra/awesome_table_in_pdf.pdf>
 
-  - Topics to tackle as you encounter them, DO NOT forge ahead w/ consultation b/c you can save yourself a lot of effort and work with these packages below:
+  - Topics to tackle as you encounter them, DO NOT forge ahead w/o consultation b/c you can save yourself a lot of effort and work with these packages below:
 
   |When you encounter...           |Package to use...    |Read or Reference Chapter(s)  |
   |--------------------------------|-------------------  |------------------------------|
