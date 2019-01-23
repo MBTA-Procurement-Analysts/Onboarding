@@ -14,9 +14,11 @@ Hi, I'm Robert Picard, a current Co-op at the MBTA Procurement & Logistics Depar
 
     - http://r4ds.had.co.nz/
 
-  - First learn and practice Chapter 12 -- Tidy Data -- This is by far the most important chapter to learn.
+  - First, read Chapters 1 and 2 -- Introduction -- to gain a general insight into what you will be learning and download the necessary     packages to complete examples and follow along with the work throughout the book.
+   
+  - Next, read Chapter 12 -- Tidy Data -- This is by far the most important chapter to learn.
 
-  - After that, read Ch.1-Ch.6, but save Ch.3 -- Data Visualization -- for after Ch.6. Code alongside.
+  - After that, read Ch.3-Ch.6, but save Ch.3 -- Data Visualization -- for after Ch.6. Code alongside.
 
   - Read and code Ch.18. Read Ch.19. Then read Ch.8-11. Code and read Ch.13 and 15.
 
